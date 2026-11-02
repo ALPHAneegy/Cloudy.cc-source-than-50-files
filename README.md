@@ -1,2 +1,3 @@
 # Cloudy.cc-source-than-50-files
+# Credits to Vroy, teequ and void.
 Cloudy.cc versions and source. Some versions work better, some others have new things...
